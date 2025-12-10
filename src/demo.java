@@ -12,7 +12,7 @@ public class demo {
         if (present >0){
             break;
         }else{
-            System.out.println("Enter the valid Year!!!!");
+            System.out.println("Enter the valid Year!!!");
         }
         }
         while(true){
